@@ -26,7 +26,8 @@ function Projects() {
               imgPath={kasa}
               isBlog={false}
               title="KASA"
-              description="x"
+              description="KASA est un site internet de location d'appartements entre particuliers.
+              Ce projet m'a permis de développer mes compétences en Javascript(React), de me familiariser avec NodeJS et de peaufiner mes compétences en HTML et CSS."
               ghLink="https://github.com/JJorisB/project-kasa"
               demoLink="https://project-kasa-rho.vercel.app/"
             />
@@ -37,8 +38,8 @@ function Projects() {
               imgPath={booki}
               isBlog={false}
               title="Booki"
-              description="x"
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
+              description="Booki est un site internet qui permet aux utilisateurs de trouver des hébergements & des activités dans la ville de leur choix. Ce projet m'a permis de développer mes compétences en HTML et CSS."
+              ghLink="https://github.com/JJorisB/BOOKI_Bilan_Joris"
               demoLink="https://jjorisb.github.io/BOOKI_Bilan_Joris/Bilan_Joris_Booki_03_2024/html.html"
             />
           </Col>
@@ -48,8 +49,8 @@ function Projects() {
               imgPath={ohmyfood}
               isBlog={false}
               title="OhMyFood"
-              description="x"
-              ghLink="https://github.com/soumyajit4419/Editor.io"
+              description="Oh My Food est un site 'mobile first' qui répertorie les menus de restaurants gastronomiques. Ce projet m'a appris à développer des animations qui fluidifie l'éxperience utilisateur et à adapter le site sous tous les formats et supports"
+              ghLink="https://github.com/JJorisB/omf"
               demoLink="https://jjorisb.github.io/omf/OHMYFOOD_BILAN_Joris/html.html"
             />
           </Col>
@@ -59,7 +60,7 @@ function Projects() {
               imgPath={argentbank}
               isBlog={false}
               title="Argent bank"
-              description="x"
+              description="Argent bank est une application bancaire créée à partir de Javascript, react et redux."
               ghLink="https://github.com/JJorisB/Projet-appli-bancaire"
             />
           </Col>
@@ -69,7 +70,7 @@ function Projects() {
               imgPath={sophiebluel}
               isBlog={false}
               title="Portfolio Sophie BLUEL"
-              description="x"
+              description="Ce site est le portfolio de Sophie BLUEL, une architecte d'intérieur. Ce projet m'a fait faire mes premiers pas dans le monde de Javascript, un monde aussi vaste que fascinant."
               ghLink="https://github.com/JJorisB/Projet-Sophie-BLUEL"
             />
           </Col>
