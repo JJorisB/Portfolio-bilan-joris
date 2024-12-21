@@ -59,7 +59,7 @@ function Projects() {
               imgPath={argentbank}
               isBlog={false}
               title="Argent bank"
-              description="Argent bank est une application bancaire créée à partir de Javascript, react et redux."
+              description="Argent bank est une application bancaire créée à partir de Javascript, react et redux. Etant la première fois que j'utilise redux, ce projet m'a permis de m'accoutumer avec cette bibliothèque de gestion d'état"
               ghLink="https://github.com/JJorisB/Projet-appli-bancaire"
             />
           </Col>
