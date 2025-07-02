@@ -20,7 +20,7 @@ function Home2() {
             </h1>
             <p className="home-about-body">
               Je suis tombé amoureux de la programmation et j’ai depuis appris
-              certaines choses, je pense... 🤷‍♂️
+              de nombreuses choses...
               <br />
               <br />
               Je suis à l’aise avec les classiques comme
@@ -77,32 +77,12 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://x.com/JorisBilan"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <AiOutlineTwitter />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
                   href="https://www.linkedin.com/in/joris-bilan-2775a0281/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
                   <FaLinkedinIn />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.instagram.com/legrandjorax/profilecard/?igsh=MXNvZWVjNmlhZTlpZg=="
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour home-social-icons"
-                >
-                  <AiFillInstagram />
                 </a>
               </li>
             </ul>
